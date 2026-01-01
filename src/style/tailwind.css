@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* If you use additional Tailwind plugins (animations etc.), add them in
+   tailwind.config.cjs or install the packages and import here. */
